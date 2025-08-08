@@ -1,4 +1,7 @@
 # Fast Multi-Exposure Image Fusion
+
+![Sample Result](FastExpoFusion_Result.png)
+
 Source code for the fast multi-exposure image fusion method described in the following paper: 
 	
 M. Nejati, M. Karimi, S. M. Reza Soroushmehr, N. Karimi, S. Samavi, and Kayvan Najarian, "Fast Exposure Fusion Using Exposedness Function", IEEE International Conference on Image Processing (ICIP), Sept. 2017, pp. 2234-2238. 
