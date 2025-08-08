@@ -21,7 +21,7 @@ M. Nejati, M. Karimi, S. M. Reza Soroushmehr, N. Karimi, S. Samavi, and Kayvan N
   
 ## Dependencies :					 	 
 The code of fast guided filter originates from Kaiming He's website: 
-http://kaiminghe.com/eccv10/
+[http://kaiminghe.com/eccv10/](https://people.csail.mit.edu/kaiming/eccv10/index.html)
 
 
 ## Disclaimer :
